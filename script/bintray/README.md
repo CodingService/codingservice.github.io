@@ -1,4 +1,6 @@
 # 使用指南
+Bintray申请部分就不说了，网上一堆，只是新版多了个组织和仓库步骤，申请后其他按照脚本配置快速搞定一切。
+另外该网站较慢，所以一定要耐心。[传送门](https://bintray.com)
 
 ## 1.工程添加插件（根目录的build.gradle）
 ```
@@ -35,6 +37,9 @@ bintray.apikey=
 ```
 //下载放到根目录
 apply from: project.rootDir.absolutePath+File.separator+'bintray.gradle'
+```
+或者
+```
 //直接在线使用（打包上传前避免网络检测可以先注释掉，打包时再放开）
 apply from: 'https://raw.githubusercontent.com/CodingService/codingservice.github.io/master/script/bintray/bintray.gradle';
 ```
