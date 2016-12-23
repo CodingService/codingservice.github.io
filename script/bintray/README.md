@@ -35,4 +35,6 @@ bintray.apikey=
 ```
 //下载放到根目录
 apply from: project.rootDir.absolutePath+File.separator+'bintray.gradle'
+//直接在线引用
+apply from: 'https://raw.githubusercontent.com/CodingService/codingservice.github.io/master/script/bintray/bintray.gradle'
 ```
