@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 宗旨
 
-You can use the [editor on GitHub](https://github.com/CodingService/codingservice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+提供方便快捷高效的编码技巧、方案、依赖库等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 服务
 
-### Markdown
+|序号|依赖库|简述|
+|:--:|:--|:--|
+|0|[Bintray脚本](https://github.com/CodingService/codingservice.github.io/tree/master/script/bintray)|更方便打包aar到JCenter|
+|1|[AndroidLogger](https://codingservice.github.io/AndroidLogger/)|Android上一个简单易用的Log日志库|
+|2|[CircleImageView](https://codingservice.github.io/CircleImageView/)|Android中一款简单高效的圆形图片组件|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 附录
 
-# Header 1
-## Header 2
-### Header 3
+想要加入组织的小伙伴或有任何疑问，可以联系我
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodingService/codingservice.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Email kerison.coding@foxmail.com
